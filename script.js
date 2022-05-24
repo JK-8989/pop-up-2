@@ -12,3 +12,5 @@ const closeModal = () => {
 }
 closeBtn.addEventListener('click', closeModal)
 bg.addEventListener('click', closeModal)
+
+
