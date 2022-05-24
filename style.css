@@ -36,4 +36,5 @@ button {
 }
 .hidden {
   display: none;
+  transition: opacity 2s;
 }

@@ -14,3 +14,14 @@ closeBtn.addEventListener('click', closeModal)
 bg.addEventListener('click', closeModal)
 
 
+
+// fadeOut = () => {
+//   const transition = document.querySelector('.hidden')
+//   transition.style.opacity = '0'
+// }
+
+
+
+
+
+
